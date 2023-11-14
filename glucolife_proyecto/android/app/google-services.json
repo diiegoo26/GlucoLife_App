@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886608987793",
+    "project_id": "glucolife-d4f1e",
+    "storage_bucket": "glucolife-d4f1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886608987793:android:4f47e1a215752837e72130",
+        "android_client_info": {
+          "package_name": "com.example.glucolife_proyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAkZqEGnbhZQIrVhFxMqR29UcLxpP4ACY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
